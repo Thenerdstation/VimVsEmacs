@@ -1,0 +1,5 @@
+chapter -> world
+python -> snek
+paper -> iron
+world -> RPI
+print -> memes

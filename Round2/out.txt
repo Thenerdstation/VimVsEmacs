@@ -1,0 +1,35 @@
+challenge/
+├── Cutler
+│   ├── Degree
+│   │   └── MIT
+│   │       ├── Bachelors
+│   │       ├── Masters
+│   │       └── PhD
+│   ├── Projects
+│   │   ├── Simulation
+│   │   └── Submitty
+│   ├── teaches
+│   │   ├── ComputerGraphics
+│   │   ├── DS
+│   │   ├── etc.
+│   │   └── visualization
+│   └── uses
+│       └── emacs
+└── Goldschmidt
+    ├── degree
+    │   └── RPI
+    │       ├── Bachelors
+    │       ├── Masters
+    │       └── PhD
+    ├── kids
+    │   ├── boy
+    │   └── girl
+    ├── teaches
+    │   ├── focs
+    │   │   └── 2018
+    │   └── opsys
+    │       └── fOrEveR
+    └── uses
+        └── vim
+
+32 directories, 0 files
